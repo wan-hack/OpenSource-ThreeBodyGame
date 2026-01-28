@@ -26,4 +26,4 @@ All positions are **zero threshold**, whether you are a Three-Body fan, player, 
 ## 📌 How to Participate
 1.  **GitHub Repository**: This page, submit PR/Issue directly
 2.  **Global Community**: [Your Discord Link]
-3.  **Domestic Community**: [Your QQ Group Link]
+3. E-mail：wanzhilin2013@163.com
