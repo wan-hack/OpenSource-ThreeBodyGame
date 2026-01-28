@@ -25,4 +25,4 @@ Todos los puestos son **sin umbral**, ya seas fanático de *Los Tres Cuerpos*, j
 ## 📌 Cómo Participar
 1.  **Repositorio GitHub**: Esta página, envía PR/Issue directamente
 2.  **Comunidad Global**: [Tu Enlace de Discord]
-3.  **Comunidad Nacional**: [Tu Enlace de Grupo QQ]
+3. E-mail：wanzhilin2013@163.com
