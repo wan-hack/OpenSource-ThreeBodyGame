@@ -40,8 +40,8 @@ We 1:1 recreate the Three-Body Game that Wang Miao played in the original novel,
 
 ## 📌 参与方式
 1.  **GitHub仓库**：本页面，直接提交PR/Issue
-2.  **全球社群**：[你的Discord链接，建好后替换]
-3.  **国内社群**：[你的QQ群链接，建好后替换]
+2.  **全球社群**：[你的Discord链接，建好]
+3.  E-mail：wanzhilin2013@163.com
 
 ---
 
