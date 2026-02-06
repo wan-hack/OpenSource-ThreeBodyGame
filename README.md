@@ -44,7 +44,7 @@ We 1:1 recreate the Three-Body Game that Wang Miao played in the original novel,
 1.  **GitHub仓库**：本页面，直接提交PR/Issue
 2.  **全球社群**：[你的Discord链接，建好]
 3.  E-mail：wanzhilin2013@163.com
-
+4.  讨论： https://github.com/wan-hack/OpenSource-ThreeBodyGame/discussions/1
 ---
 
 > 本项目为非商业性开源粉丝项目，《三体》原著著作权归刘慈欣先生所有，商业版权归三体宇宙所有。
