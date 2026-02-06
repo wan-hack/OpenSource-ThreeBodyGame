@@ -27,3 +27,4 @@ All positions are **zero threshold**, whether you are a Three-Body fan, player, 
 1.  **GitHub Repository**: This page, submit PR/Issue directly
 2.  **Global Community**: [Your Discord Link]
 3. E-mail：wanzhilin2013@163.com
+4. discussion：https://github.com/wan-hack/OpenSource-ThreeBodyGame/discussions/1
