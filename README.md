@@ -3,6 +3,8 @@
 希望各位仁兄、大哥帮帮忙，本人中学生一枚，纯兴趣来试试| Open Source Three-Body Game - First-person recreation of Wang Miao's experience, GPLv3 permanent free, global co-construction (I don't know much about coding, let's work together!)
 # 开源三体游戏 - 第一人称体验版
 Open Source Three-Body Game - First-Person Experience
+✨ 如果这个项目对你有帮助，请点个Star支持一下中学生开发者！
+✨ If this project made your day, please give it a ⭐️ Star! Your support means a lot to a middle school student developer!
 
 ## 🌟 项目介绍
 这是一款**非商业、永久免费的开源游戏**，由六年级三体硬核粉丝发起，全球三体粉共同共建。
