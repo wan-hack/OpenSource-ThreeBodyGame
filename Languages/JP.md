@@ -26,3 +26,4 @@
 1.  **GitHubリポジトリ**：このページ、直接PR/Issueを提出
 2.  **グローバルコミュニティ**：[あなたのDiscordリンク]
 3. E-mail：wanzhilin2013@163.com
+4.討論（とうろん）：https://github.com/wan-hack/OpenSource-ThreeBodyGame/discussions/1
